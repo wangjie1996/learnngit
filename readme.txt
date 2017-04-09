@@ -14,4 +14,4 @@ Creating breanch is ahead of 'wangjie1996/master'by 1commit
 Creating a new branch is quick and simpl
 >>>>>>> featur
 wangjie sjiw
-Switched to a new branch 'dev'
+Switched to a new branch 'issue-101'
